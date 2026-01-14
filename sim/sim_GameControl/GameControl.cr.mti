@@ -1,0 +1,36 @@
+C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/tb_GameControl.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/tb_GameControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_GameControl
+
+Top level modules:
+	tb_GameControl
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/LoadRegister.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/LoadRegister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LoadRegister
+
+Top level modules:
+	LoadRegister
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/GameController.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/GameController.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GameController
+
+Top level modules:
+	GameController
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/GameControl.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/GameControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GameControl
+
+Top level modules:
+	GameControl
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/ButtonShaper.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_GameControl/ButtonShaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ButtonShaper
+
+Top level modules:
+	ButtonShaper
+
+} {} {}}

@@ -1,0 +1,50 @@
+C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/Load4x2bit.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/Load4x2bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Load4x2bit
+
+Top level modules:
+	Load4x2bit
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/Decoder.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/LFSRRNG.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/LFSRRNG.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSRNG
+
+Top level modules:
+	LFSRNG
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/tb_Decoder.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/tb_Decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Decoder
+
+Top level modules:
+	tb_Decoder
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/ButtonShaper.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/ButtonShaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ButtonShaper
+
+Top level modules:
+	ButtonShaper
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/ModeRotator.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/ModeRotator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ModeRotator
+
+Top level modules:
+	ModeRotator
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/MorseDecoder.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Decoder/MorseDecoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MorseDecoder
+
+Top level modules:
+	MorseDecoder
+
+} {} {}}

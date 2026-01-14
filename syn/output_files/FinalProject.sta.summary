@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -4.088
+TNS   : -415.549
+
+Type  : Slow 1100mV 85C Model Setup 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -2.762
+TNS   : -74.341
+
+Type  : Slow 1100mV 85C Model Setup 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -2.406
+TNS   : -21.406
+
+Type  : Slow 1100mV 85C Model Setup 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -1.413
+TNS   : -10.808
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.627
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.728
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.787
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.636
+TNS   : -315.999
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -0.538
+TNS   : -20.928
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -0.538
+TNS   : -8.513
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -0.538
+TNS   : -6.937
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -4.368
+TNS   : -413.931
+
+Type  : Slow 1100mV 0C Model Setup 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -2.792
+TNS   : -74.337
+
+Type  : Slow 1100mV 0C Model Setup 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -2.540
+TNS   : -22.618
+
+Type  : Slow 1100mV 0C Model Setup 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -1.454
+TNS   : -11.011
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -0.052
+TNS   : -0.052
+
+Type  : Slow 1100mV 0C Model Hold 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.601
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.674
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.783
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.636
+TNS   : -317.636
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -0.538
+TNS   : -20.888
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -0.538
+TNS   : -8.537
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -0.538
+TNS   : -6.971
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -2.130
+TNS   : -141.509
+
+Type  : Fast 1100mV 85C Model Setup 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -0.990
+TNS   : -25.725
+
+Type  : Fast 1100mV 85C Model Setup 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -0.819
+TNS   : -6.516
+
+Type  : Fast 1100mV 85C Model Setup 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -0.402
+TNS   : -2.713
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.072
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -177.594
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -1.774
+TNS   : -117.368
+
+Type  : Fast 1100mV 0C Model Setup 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : -0.880
+TNS   : -22.563
+
+Type  : Fast 1100mV 0C Model Setup 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : -0.659
+TNS   : -5.832
+
+Type  : Fast 1100mV 0C Model Setup 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : -0.343
+TNS   : -2.203
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.159
+TNS   : -0.655
+
+Type  : Fast 1100mV 0C Model Hold 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.224
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.308
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -2.174
+TNS   : -177.785
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|CountTo100:u100|timeout'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'OneSecTimer:uOneSecTimer|LFSR1ms:u1ms|timeout'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'ClockDivider25MHz:uClkDiv|clk_out'
+Slack : 0.159
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,12 @@
+*.bak
+*.tmp
+*.rpt
+*.qws
+*.qpf
+*.qsf
+db/
+incremental_db/
+simulation/
+work/
+
+

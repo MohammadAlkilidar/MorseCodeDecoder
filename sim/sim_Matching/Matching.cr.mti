@@ -1,0 +1,50 @@
+C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/tb_Matching.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/tb_Matching.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Matching
+
+Top level modules:
+	tb_Matching
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/ROM_WORDS.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/ROM_WORDS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_WORDS
+
+Top level modules:
+	ROM_WORDS
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/LoadRegister.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/LoadRegister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LoadRegister
+
+Top level modules:
+	LoadRegister
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/SevenSegmentDisplay.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/SevenSegmentDisplay.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SevenSegmentDisplay
+
+Top level modules:
+	SevenSegmentDisplay
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/Matching.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/Matching.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Matching
+
+Top level modules:
+	Matching
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/CheckMatch.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/CheckMatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CheckMatch
+
+Top level modules:
+	CheckMatch
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/ButtonShaper.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Matching/ButtonShaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ButtonShaper
+
+Top level modules:
+	ButtonShaper
+
+} {} {}}

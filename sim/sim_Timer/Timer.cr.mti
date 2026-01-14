@@ -1,0 +1,57 @@
+C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/tb_Timer.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/tb_Timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Timer
+
+Top level modules:
+	tb_Timer
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/digitTimer.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/digitTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module digitTimer
+
+Top level modules:
+	digitTimer
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/OneSecTimer.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/OneSecTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OneSecTimer
+
+Top level modules:
+	OneSecTimer
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/SevenSegmentDisplay.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/SevenSegmentDisplay.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SevenSegmentDisplay
+
+Top level modules:
+	SevenSegmentDisplay
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/LFSR1ms.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/LFSR1ms.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR1ms
+
+Top level modules:
+	LFSR1ms
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/Timer.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/Timer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer
+
+Top level modules:
+	Timer
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/CountTo10.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/CountTo10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CountTo10
+
+Top level modules:
+	CountTo10
+
+} {} {}} C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/CountTo100.v {1 {vlog -work work -stats=none C:/Users/mhalk/ADD/Projects/FinalProject/sim/sim_Timer/CountTo100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CountTo100
+
+Top level modules:
+	CountTo100
+
+} {} {}}
